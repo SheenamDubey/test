@@ -1,5 +1,1 @@
-{{SheenamDubey}
-Name: Sheenam Dubey
-Skills: HTML, CSS, JS, Python(basics), C Programming  
-Email: sheenamdubey07@gmail.com
-{{/user}}
+
